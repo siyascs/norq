@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493075813567",
+    "project_id": "norq-bad49",
+    "storage_bucket": "norq-bad49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493075813567:android:cd105f1cba58c5e2ff620a",
+        "android_client_info": {
+          "package_name": "com.example.norqmachinetest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE5LslHKgucne0iVBkaZOIxQ6M-azGwy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
